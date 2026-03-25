@@ -36,5 +36,5 @@ Some key insights derived from the dashboard:<br>
 📌 Sales trends over time<br>
 📌 Region-wise sales distribution<br>
 📌 Revenue and quantity analysis<br>
-📌 High-demand products<br>
+📌 High-demand products<br><br><br><br><br>
 ![Mobile Sales Dashboard](./Mobile_sales_dashboard.png)
